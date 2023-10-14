@@ -4,11 +4,11 @@ Hey there! I'm Sohail, a passionate full-stack developer, web designer, photogra
 
 ## About Me
 
-- 💻 Full-Stack Developer
-- 🎨 Web Designer
-- 📷 Photographer
-- 🎥 Filmmaker
-- 🌟 Tech Enthusiast
+- ![Developer](https://img.shields.io/badge/Developer-Frontend-yellow)
+- ![Web Designer](https://img.shields.io/badge/Web%20Designer-HTML%20%7C%20CSS%20%7C%20UI/UX-blue)
+- ![Photographer](https://img.shields.io/badge/Photographer-Camera%20%7C%20Photo%20Editing-red)
+- ![Filmmaker](https://img.shields.io/badge/Filmmaker-Filmmaking%20%7C%20Video%20Editing-orange)
+- ![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-Technology%20%7C%20Gadgets-lightgrey)
 
 ## Let's Connect
 
@@ -39,3 +39,5 @@ Here are some of the languages and tools I'm proficient in:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
