@@ -41,3 +41,6 @@ Here are some of the languages and tools I'm proficient in:
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+# GitHub Statistics
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecodephilic-guy)](https://github.com/thecodephilic-guy)
