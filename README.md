@@ -24,25 +24,12 @@ Feel free to explore my projects and get a glimpse of my creative journey.
 
 You can find me on various social media platforms and other professional networks:
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/sohail-ansari-19435b269/)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/photophilic_guy)
-- **Instagram**: [Your Instagram Profile](https://www.instagram.com/thephotophilic_guy/)
-- **YouTube**: [Your YouTube Channel](https://www.youtube.com/channel/UCtzGi0Mo-FdqOVM3EHobq9g)
-
-1. LinkedIn Badge:
-   - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-2. Twitter Badge:
-   - ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-3. Instagram Badge:
-   - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-4. YouTube Badge:
-   - ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-You can include these badges in your README.md by using the Markdown code, as shown in the previous examples. Replace the URLs with the links to your actual social media profiles.
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+](https://twitter.com/photophilic_guy)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thephotophilic_guy/)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtzGi0Mo-FdqOVM3EHobq9g)
 
 ## Get in Touch
 
