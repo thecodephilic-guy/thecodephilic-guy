@@ -24,14 +24,29 @@ Feel free to explore my projects and get a glimpse of my creative journey.
 
 You can find me on various social media platforms and other professional networks:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sohail-ansari-19435b269/)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/sohail-ansari-19435b269/)
 - **Twitter**: [Your Twitter Profile](https://twitter.com/photophilic_guy)
 - **Instagram**: [Your Instagram Profile](https://www.instagram.com/thephotophilic_guy/)
 - **YouTube**: [Your YouTube Channel](https://www.youtube.com/channel/UCtzGi0Mo-FdqOVM3EHobq9g)
 
+1. LinkedIn Badge:
+   - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+2. Twitter Badge:
+   - ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+3. Instagram Badge:
+   - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+4. YouTube Badge:
+   - ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+You can include these badges in your README.md by using the Markdown code, as shown in the previous examples. Replace the URLs with the links to your actual social media profiles.
+
 ## Get in Touch
 
-I'm always open to collaborations and new opportunities. If you'd like to work together or just have a chat, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
+I'm always open to collaborations and new opportunities. If you'd like to work together or just have a chat, feel free to reach out to me at [sohailansari483@gmail.com](mailto:your.email@example.com).
 
 Let's create, innovate, and inspire together! 🌟
 
@@ -45,6 +60,5 @@ Here are some of the languages and tools I'm proficient in:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
