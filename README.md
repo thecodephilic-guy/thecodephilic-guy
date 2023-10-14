@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 🚀
+[![Welcome to My GitHub Profile](https://img.shields.io/badge/Welcome%20to-My%20GitHub%20Profile-2EA44F?style=for-the-badge)](https://github.com/YourGitHubUsername)
 
 Hey there! I'm Sohail, a passionate full-stack developer, web designer, photographer, and filmmaker. I'm constantly exploring the world of technology and creativity. This GitHub profile is a showcase of my coding projects, design work, and visual storytelling endeavors. 🌐📷🎬
 
@@ -9,16 +9,6 @@ Hey there! I'm Sohail, a passionate full-stack developer, web designer, photogra
 - 📷 Photographer
 - 🎥 Filmmaker
 - 🌟 Tech Enthusiast
-
-## Portfolio Highlights
-
-Here are some of the exciting things you'll find in my repositories:
-
-- 🚀 Innovative web applications
-- 🎨 Stunning web designs
-- 📷 Captivating photography
-
-Feel free to explore my projects and get a glimpse of my creative journey.
 
 ## Let's Connect
 
