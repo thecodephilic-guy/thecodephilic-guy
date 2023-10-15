@@ -43,6 +43,5 @@ Here are some of the languages and tools I'm proficient in:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # GitHub Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecodephilic-guy)](https://github.com/thecodephilic-guy) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodephilic-guy&layout=donut)](https://github.com/thecodephilic-guy/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecodephilic-guy)](https://github.com/thecodephilic-guy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodephilic-guy&layout=donut)](https://github.com/thecodephilic-guy/github-readme-stats)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodephilic-guy&show_icons=true&theme=gruvbox)-->
