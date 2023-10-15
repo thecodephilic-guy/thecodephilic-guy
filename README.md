@@ -14,16 +14,16 @@ Hey there! I'm Sohail, a passionate full-stack developer, web designer, photogra
 
 You can find me on various social media platforms and other professional networks:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/sohail-ansari-19435b269/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+ [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ](https://twitter.com/photophilic_guy)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thephotophilic_guy/)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtzGi0Mo-FdqOVM3EHobq9g)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thephotophilic_guy/)
+ [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtzGi0Mo-FdqOVM3EHobq9g)
 
 ## Get in Touch
 
-I'm always open to collaborations and new opportunities. If you'd like to work together or just have a chat, feel free to reach out to me at [sohailansari483@gmail.com](mailto:your.email@example.com).
+I'm always open to collaborations and new opportunities. If you'd like to work together or just have a chat, feel free to reach out to me at [sohailansari483@gmail.com](mailto:sohailansari483@gmail.com).
 
 Let's create, innovate, and inspire together! 🌟
 
