@@ -23,7 +23,7 @@ You can find me on various social media platforms and other professional network
 
 ## Get in Touch
 
-I'm always open to collaborations and new opportunities. If you'd like to work together or just have a chat, feel free to reach out to me at [sohailansari483@gmail.com](mailto:sohailansari483@gmail.com).
+I'm always open to collaborations and new opportunities. If you'd like to work together or just have a chat, feel free to reach out to me at [sohailansari483@gmail.com](mailto:sohailansari483@gmail.com) OR [sohail@luxswipe.in](mailto:sohail@luxswipe.in)
 
 Let's create, innovate, and inspire together! 🌟
 
