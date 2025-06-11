@@ -1,46 +1,54 @@
-[![Welcome to My GitHub Profile](https://img.shields.io/badge/Welcome%20to-My%20GitHub%20Profile-2EA44F?style=for-the-badge)](https://github.com/YourGitHubUsername)
+<h1 align="center">Hey, I'm Sohail</h1>
+<p align="center">
+  <i>Backend Developer with a frontend habit I refuse to quit</i>
+</p>
 
-Hey there! I'm Sohail, a passionate full-stack developer, web designer, photographer, and filmmaker. I'm constantly exploring the world of technology and creativity. This GitHub profile is a showcase of my coding projects, design work, and visual storytelling endeavors. 🌐📷🎬
+---
 
-## About Me
+### About Me
 
-- ![Developer](https://img.shields.io/badge/Developer-Frontend-yellow)
-- ![Web Designer](https://img.shields.io/badge/Web%20Designer-HTML%20%7C%20CSS%20%7C%20UI/UX-blue)
-- ![Photographer](https://img.shields.io/badge/Photographer-Camera%20%7C%20Photo%20Editing-red)
-- ![Filmmaker](https://img.shields.io/badge/Filmmaker-Filmmaking%20%7C%20Video%20Editing-orange)
-- ![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-Technology%20%7C%20Gadgets-lightgrey)
+- Writes backend code like it owes him money (Node.js | Golang | PostgreSQL).
+- Accidentally became decent at frontend stuff (React | Tailwind).
+- Occasionally points a camera and calls it "art".
+- Type-safe, bug-prone, coffee-fueled.
 
-## Let's Connect
+---
 
-You can find me on various social media platforms and other professional networks:
+### Stuff I Poke Until It Works
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/sohail-ansari-19435b269/)
- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-](https://twitter.com/photophilic_guy)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thephotophilic_guy/)
- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtzGi0Mo-FdqOVM3EHobq9g)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 
-## Get in Touch
+---
 
-I'm always open to collaborations and new opportunities. If you'd like to work together or just have a chat, feel free to reach out to me at [sohailansari483@gmail.com](mailto:sohailansari483@gmail.com) OR [sohail@luxswipe.in](mailto:sohail@luxswipe.in)
+### Let's Talk Code & Art
 
-Let's create, innovate, and inspire together! 🌟
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohail-ansari-19435b269/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/photophilic_guy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thephotophilic_guy/)
 
-## Languages and Tools
+---
 
-Here are some of the languages and tools I'm proficient in:
+### Ping Me (Not for crypto collabs)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+📧 [sohailansari483@gmail.com](mailto:sohailansari483@gmail.com)  
+📧 [sohail@luxswipe.in](mailto:sohail@luxswipe.in)
 
-# GitHub Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecodephilic-guy)](https://github.com/thecodephilic-guy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodephilic-guy&layout=donut)](https://github.com/thecodephilic-guy/github-readme-stats)
+---
+
+### 📈 Some GitHub Bragging Rights
+
+![Streak](https://streak-stats.demolab.com?user=thecodephilic-guy&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodephilic-guy&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+> “If it works on localhost, I ship it.”
