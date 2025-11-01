@@ -6,7 +6,7 @@
 ### Ping Me (Not for crypto collabs)
 
 📧 [sohailansari483@gmail.com](mailto:sohailansari483@gmail.com)  
-📧 [sohail@luxswipe.in](mailto:sohail@nxtlap.com)
+📧 [sohail@nxtlap.com](mailto:sohail@nxtlap.com)
 
 ---
 
